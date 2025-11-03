@@ -1,0 +1,40 @@
+# Unreal Engine
+Binaries/
+Intermediate/
+Saved/
+.vs/
+*.sln
+*.vcxproj
+*.vcxproj.user
+
+# Build outputs
+Build/
+Dist/
+
+# IDE
+.vscode/
+.idea/
+*.code-workspace
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Project files
+*.uproject
+*.VC.db
+*.VC.opendb
+
+# Cooked content
+Cooked/
+
+# Logs
+Logs/
+*.log
+
+# Mobile builds
+Binaries/Android/
+Binaries/IOS/
+
+# Editor
+*.uplugin
